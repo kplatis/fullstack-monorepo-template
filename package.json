@@ -6,15 +6,15 @@
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kplatis/flaneur-ai.git"
+    "url": "git+https://github.com/kplatis/fullstack-monorepo-template.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kplatis/flaneur-ai/issues"
+    "url": "https://github.com/kplatis/fullstack-monorepo-template/issues"
   },
-  "homepage": "https://github.com/kplatis/flaneur-ai#readme",
+  "homepage": "https://github.com/kplatis/fullstack-monorepo-template#readme",
   "devDependencies": {
     "@playwright/test": "^1.56.0",
     "@types/node": "^24.7.2"
