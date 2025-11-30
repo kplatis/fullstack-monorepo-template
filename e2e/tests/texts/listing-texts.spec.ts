@@ -1,5 +1,5 @@
 import test, { expect } from "@playwright/test";
-import { ListingTextsPage } from "../../pages/ListingTripsPage";
+import { ListingTextsPage } from "../../pages/ListingTextsPage";
 
 test("has title", async ({ page }) => {
   const listingTextsPage = new ListingTextsPage(page);
